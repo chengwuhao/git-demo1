@@ -1,0 +1,6 @@
+git add 文件名添加到暂存区
+git status 查看状态
+git commit -m ‘日志信息’ 文件名 将暂存区提交到本地库
+git reflog 查看版本信息 	modified信息被修改了
+git 
+clear 清屏
